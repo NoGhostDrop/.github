@@ -1,4 +1,4 @@
-#NoGhostDrop
+# NoGhostDrop
 
 ## AI-Powered Sybil-Resistant Airdrop Platform
 
