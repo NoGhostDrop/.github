@@ -76,3 +76,9 @@ NoGhostDrop leverages AI agent to analyze on-chain behavior patterns and identif
 3. **AI Analysis**: Our system analyzes wallet behavior and transaction history
 4. **Verification**: Legitimate wallets are verified against project criteria
 5. **Distribution**: Tokens are automatically distributed to eligible wallets
+
+Demo : https://youtu.be/qSCUPir-6Vw
+
+📝 License
+
+MIT License
